@@ -281,20 +281,14 @@ Enable debug logging by adding console.log statements in:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Contributing
+## Author
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+Created by Aaron K. Saunders
 
-## 📞 Support
-
-For issues and questions:
-- **Clerk Documentation**: [clerk.com/docs](https://clerk.com/docs)
-- **Expo Documentation**: [docs.expo.dev](https://docs.expo.dev)
-- **React Native Documentation**: [reactnative.dev](https://reactnative.dev)
+- 🎥 [YouTube Channel](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg/)
+- 🐦 [Twitter](https://x.com/aaronksaunders)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaronksaunders/)
+- 🌐 [GitHub](https://github.com/aaronksaunders)
 
 ---
 
